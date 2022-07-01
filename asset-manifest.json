@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio-v1/static/css/main.6620b227.css",
+    "main.js": "/portfolio-v1/static/js/main.54424e80.js",
+    "static/js/937.155390ea.chunk.js": "/portfolio-v1/static/js/937.155390ea.chunk.js",
+    "static/media/CryptoMafiaNFT.png": "/portfolio-v1/static/media/CryptoMafiaNFT.07a1ba280723317a2893.png",
+    "static/media/BikeChain.png": "/portfolio-v1/static/media/BikeChain.d908613a90e34de57c0c.png",
+    "static/media/ethereum.png": "/portfolio-v1/static/media/ethereum.a85b6de0dc4a013ae2f8.png",
+    "static/media/java.png": "/portfolio-v1/static/media/java.fdabd4e11f1235e4e8e0.png",
+    "static/media/hardhat.png": "/portfolio-v1/static/media/hardhat.c31e9eab32f15e41ae15.png",
+    "static/media/ethers.png": "/portfolio-v1/static/media/ethers.f07bce4d06ca14b0c364.png",
+    "static/media/solidity.png": "/portfolio-v1/static/media/solidity.d08ab6c02fba5cf68029.png",
+    "static/media/react.png": "/portfolio-v1/static/media/react.20adfb35ae6a6e5817bf.png",
+    "static/media/logo.png": "/portfolio-v1/static/media/logo.1e0b64dcc0b26b97d691.png",
+    "static/media/node.png": "/portfolio-v1/static/media/node.8683d89cf78ffae3d1f7.png",
+    "index.html": "/portfolio-v1/index.html",
+    "main.6620b227.css.map": "/portfolio-v1/static/css/main.6620b227.css.map",
+    "main.54424e80.js.map": "/portfolio-v1/static/js/main.54424e80.js.map",
+    "937.155390ea.chunk.js.map": "/portfolio-v1/static/js/937.155390ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6620b227.css",
+    "static/js/main.54424e80.js"
+  ]
+}
